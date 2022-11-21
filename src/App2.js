@@ -2,7 +2,7 @@ import Header from './RecreatedWWW/Header'
 import Contents from './RecreatedWWW/Contents'
 import './First.css'
 
-function App() {
+function App2() {
   return (
     <div className="App">
       <Header/>
@@ -11,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default App2;

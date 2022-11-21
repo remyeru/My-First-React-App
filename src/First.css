@@ -1,0 +1,27 @@
+.header {
+    justify-content: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6px;
+    font-size: larger;
+}
+
+.paragraph {
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 50px;
+    font-size: larger;
+}
