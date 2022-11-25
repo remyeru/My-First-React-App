@@ -1,21 +1,21 @@
+import 'react-icons';
+
 const Content =() => {
     return(
-        <div>
-            <section class="content-section bg-light" id="about">
-                <div class="container px-4 px-lg-5 text-center">
-                    <div class="row gx-4 gx-lg-5 justify-content-center">
-                        <div class="col-lg-10">
-                         <div class="avatar"></div>
-                         <h2>Lemuel Genova</h2>
-                         <p class="lead mb-5">
-                            This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
-                         </p>
-                            <a class="btn btn-dark btn-xl" href="#services">What We Offer</a>
-                        </div>
+        <section className="content-section" id="skills">
+            <div className="skills">
+                <div className="container">
+                    <h1 className="p-1">Skills</h1>
+                    <h2 className="p-2">Tool's & Language's</h2>
+                    <a class="btn-1 btn-primary btn-xl" href="#portfolio">Portfolio</a>
+                </div>
+                <div className="row ">
+                    <div>
+                        <span className=""></span>
                     </div>
-             </div>
-            </section>
-        </div>
+                </div>
+            </div>
+        </section>
     );
 }
 
